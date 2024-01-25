@@ -138,7 +138,7 @@ six==1.16.0
 smmap==5.0.1
 soupsieve==2.3.1
 stack-data==0.6.3
-streamlit==1.30.0
+streamlit>=1.30.0
 sympy==1.9
 systemd-python==234
 tables==3.7.0
