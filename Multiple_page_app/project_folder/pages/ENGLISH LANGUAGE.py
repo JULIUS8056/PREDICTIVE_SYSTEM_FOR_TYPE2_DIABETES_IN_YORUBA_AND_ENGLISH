@@ -8,7 +8,7 @@ model=pickle.load(open('/home/julius/python folder/Type-2-prediction.pkl','rb'))
 with open("design.css") as ds:
     st.markdown(f"<style>{ds.read()}</style>", unsafe_allow_html=True)
 def main():
-    with open('style.css') as f:
+    with open('design.css') as f:
         #st.markdown(f'<style>{f.read()}</style>',unsafe_allow_html=True)
             
 
